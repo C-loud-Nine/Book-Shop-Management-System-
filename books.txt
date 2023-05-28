@@ -1,0 +1,6 @@
+1001 NorwegianWood HarukiMurakami 23
+1002 TheGodfather MarioPuzo 42
+1003 FortyRulesofLove ElifShafak 21
+1004 TheKiterunner KhaledHossaini 29
+1005 Dracula BromStocker 20
+1006 ToKillaMockingbird HarperLee 33
